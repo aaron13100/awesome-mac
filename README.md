@@ -597,6 +597,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - Award-winning, beautiful, fast, and reliable FTP + SFTP client.
+* [SteadyMount](https://forethought-studio.com/steadymount) - Mount SFTP, WebDAV, and FTP servers as native Finder drives via the File Provider API. [![App Store][app-store Icon]](https://apps.apple.com/app/id6760929849)
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
 
 ## Data Recovery Tools
